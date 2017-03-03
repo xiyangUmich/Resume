@@ -1,0 +1,83 @@
+                                                        Xi Yang
+                            (734) 646 8769 • xiyang0405@gmail.com • 2012 Medford Rd, Ann Arbor, MI 48104
+
+OBJECTIVE	•	Full-time position in Software Engineer/Data Engineer/Data Analyst	
+TECHNICAL SKILLS	
+          •	Languages: C++ (3 years);
+                       C#,.Net Framework, XML (1.5 years);
+                       JAVA, Python ( 1year);
+          •	Applications: Visual Studio (5 years); 
+                          Matlab, R, Excel (3 years);
+                          Hadoop, Oracle, SAS (1 year);
+          •	Other Skills: System Development based on Web;     
+                          Data Analysis; Data Modeling; Big Data
+          •	Webpages:     https://github.com/xiyangUmich
+                          https://www.linkedin.com/in/xi-yang-784b108b                           	
+EXPERIENCE	
+
+FIS Global Company, Development Group                                Software Engineer
+Ann Arbor, MI       Apr. 2015 – Mar. 2017
+•	Improved current financial solutions by examining existing defects and incidents and developing new features, using C# and .Net    Framework.
+•	Composed detailed pertinent technical specifications and installation guides.  
+•	Assisted manager and other team members with other projects involving works in database and code review.                                                                                                                            
+Wecash Technology Company, Algorithm Department                         Data Analyst
+Beijing, China      Jun. 2014 - Aug. 2014 
+•	Evaluated customers’ credits by identifying most important data items, researching and conducting quantitative methods and regression models, using C++, Matlab and R.
+•	Maintained and improved existing models and increased their accuracy.
+•	Analyzed data by calculation and plots through Excel. Composed analysis reports.	
+
+
+MAJOR PROJECTS	
+
+Minimap     Feb. 2017 – Mar. 2017                                                                           
+•	Built up back end settings such as protocols and firewall by AWS. 
+•	Developed a minimap using APIs provided by google, which can show the map and achieve the nearby search and search bar function.
+•	Technology: Node.js, Javascript, CSS, HTML
+
+Multiple Accounts Transaction Improvements   Oct.2016 – Dec. 2016                                                                 
+•	Improved the Multiple Accounts Transaction function by adding a column of checkboxes in a “GridView” table to provide users a way to select accounts from a certain template and by changing the related button event function.
+•	Added a condition in the submit function to check the number of accounts. If it is more than a certain limit, return an error message; if not, conduct this transaction.
+•	Technology: C#, .Net Framework, JS and SQL
+
+Audit Function Improvement  Jun. 2016 – Jul. 2016
+•	Improved the audit function under the reports menu through acquiring information from database, filtering data by XML nodes and presenting data properly on the webpage, to indicate changes of services’ settings, such as adding, removing or updating by different users, 
+•	Technology: C#,.Net Framework, XML and SQL
+
+Footer Branded Section    Sep.2015 – Oct. 2015                                                                                
+•	Added a fully customizable footer section to the production master page, in which  users could insert logos and contact information based on their needs with full  control of layout and styles. Increased the profits of production by $5000.
+•	Technology: C#, .Net Framework and XML
+Logical Regression Model Building and Testing
+•	Picked up most useful data items from about 50000 pieces of users’ data to build up logical regression models. Used these models to predict and evaluate customers’ credit.
+•	Validated models and improved models’ accuracy by 15%.
+•	Technology: Matlab, C++, R and Excel	Jun. 2014 - Aug. 2014
+
+Market Maker  Mar. 2014 - Apr. 2014
+•	Designed and developed an electronic stock exchange market system that allowed buying and selling equities based on given orders and predefined market rules.
+•	Leveraged priority queues and hash tables to enable timely order processing and better system performance.
+Technology: C++
+
+Option Pricing and Development of Portfolio   Mar. 2014 - Apr. 2014 
+•	Calculated risk-neutral prices for about 10,000 options based on the BS model.
+•	Built up a portfolio that can achieve the maximum average profit by comparing bid price and ask price with the risk-neutral one. Earned a 32% potential gain per day on average.
+•	Technology: C++, Matlab	
+
+Time Series Analysis on Foreign Exchange Rate  Mar. 2013 - May.2013
+•	Fitted foreign exchange rate data during 10 months into ARMA and ARIMA models. Validated models’ accuracy and used them to predict future’s rates. The highest prediction accuracy was 65%.
+•	Technology: R, Matlab and Excel
+
+Design and Development of Finance Management System Based on Web   Oct. 2013 - Nov.2013                                       
+•	Designed and implemented a management system in full-stack, including UI, backend services, database and unit test cases, to enable individuals to manage personal financial matters more effectively and accurately.
+Technology: PHP, HTML, CSS, Javascript and SQL	
+
+EDUCATION	
+University of Michigan-Ann Arbor  	Ann Arbor, MI  Jul. 2013 - Dec. 2014 
+Master of Financial Engineering.    GPA: 3.73                                                                    
+Courses: Programming and Introductory Data Structures, 
+         Data Structure and Algorithm, Financial Engineering;
+
+Tianjin University of Technology  Tianjin, China  Sep. 2009 - Jun. 2013
+Bachelor of Computer Science and Technology.   GPA:3.6                                                              
+Honor: Outstanding Graduate (Top 1%); Scholarship for Social Work;                                     
+       First-class Scholarship and Honor Student (2009, 2010, 2012);  
+
+	
